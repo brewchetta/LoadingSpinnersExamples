@@ -14,4 +14,4 @@ Fancy Flower Spinner:
 
 ![Fancy Spinner](/Assets/FancySpinner.gif)
 
- You can reminisce about the age of dial up and get a more detailed explanation [here](https://medium.com/@chett.tiller/consider-the-loading-spinner-5a721b3b5ff2)
+ You can reminisce about the age of dial up and get a more detailed explanation [here](https://medium.com/@chett.tiller/consider-the-loading-spinner-5a721b3b5ff2).
